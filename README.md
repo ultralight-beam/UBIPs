@@ -5,7 +5,7 @@ The UB project's development process is design-driven. Significant changes to th
 This document describes the process for proposing, documenting, and implementing changes to the UB project.
 
 ## The Proposal Process
-1. The proposal author [creates a brief issue](https://golang.org/issue/new) describing the proposal.\
+1. The proposal author creates a new issue describing the proposal.\
    Note: There is no need for a design document at this point.\
    Note: A non-proposal issue can be turned into a proposal by simply adding the proposal label.
 
@@ -18,7 +18,7 @@ This document describes the process for proposing, documenting, and implementing
    Otherwise the discussion is expected to identify concerns that
    should be addressed in a more detailed design.
 
-3. The proposal author writes a [design doc](#design-documents) to work out details of the proposed
+3. The proposal author writes a design doc (TBD) to work out details of the proposed
    design and address the concerns raised in the initial discussion.
 
 4. Once comments and revisions on the design doc wind down, there is a final
