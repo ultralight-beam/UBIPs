@@ -1,6 +1,6 @@
 # Proposing Changes to Ultralight Beam ("UB")
 ## Introduction
-The UB project's development process is design-driven. Significant changes to the language, libraries, or tools must be first discussed, and sometimes formally documented, before they can be implemented.
+The UB project's development process is design-driven. Significant changes to the protocol, libraries, or tools must be first discussed, and sometimes formally documented, before they can be implemented.
 
 This document describes the process for proposing, documenting, and implementing changes to the UB project.
 
