@@ -5,7 +5,7 @@ The UB project's development process is design-driven. Significant changes to th
 This document describes the process for proposing, documenting, and implementing changes to the UB project.
 
 ## The Proposal Process
-1. The proposal author creates a new issue describing the proposal.\
+1. The proposal author [creates a brief issue](https://github.com/ultralight-beam/UBIPs/issues/new) describing the proposal.\
    Note: There is no need for a design document at this point.\
    Note: A non-proposal issue can be turned into a proposal by simply adding the proposal label.
 
