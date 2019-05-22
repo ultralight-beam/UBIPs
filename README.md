@@ -23,7 +23,7 @@ This document describes the process for proposing, documenting, and implementing
 
 4. Once comments and revisions on the design doc wind down, there is a final
    discussion on the issue, to reach one of two outcomes:
-    - Accept proposal or
+    - Accept proposal, or
     - decline proposal.
 
 After the proposal is accepted or declined (whether after step 2 or step 4),
