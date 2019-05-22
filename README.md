@@ -8,8 +8,9 @@ This document describes the process for proposing, documenting, and implementing
 The proposal process is the process for reviewing a proposal and reaching a decision about whether to accept or decline the proposal.
 
 1. The proposal author creates a brief issue describing the proposal.
-Note: There is no need for a design document at this point.
-Note: A non-proposal issue can be turned into a proposal by simply adding the proposal label.
+
+  Note: There is no need for a design document at this point.
+  Note: A non-proposal issue can be turned into a proposal by simply adding the proposal label.
 
 2. A discussion on the issue tracker aims to triage the proposal into one of three outcomes:
   - Accept proposal, or
